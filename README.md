@@ -1,8 +1,11 @@
 # mynote
+#
+
 
 
 ## How to get distribution group owner name
-### GET DISTRIBUTION GROUP OWNER LISTS AND EMAIL
+
+! GET DISTRIBUTION GROUP OWNER LISTS AND EMAIL
 
 ```
 Clear-Host
